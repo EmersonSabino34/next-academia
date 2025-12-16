@@ -66,7 +66,7 @@ export function Contact() {
             <CardContent>
               <Button size="lg" className="w-full bg-green-600 hover:bg-green-700 text-white" asChild>
                 <a
-                  href="https://wa.me/351912345678"
+                  href="https://wa.me/3519119097799"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
