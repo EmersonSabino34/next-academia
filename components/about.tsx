@@ -13,6 +13,7 @@ export function About() {
       description: "Ambiente acolhedor e motivador",
     },
     {
+
       icon: Clock,
       title: "Flexibilidade",
       description: "Horários variados para sua rotina",
