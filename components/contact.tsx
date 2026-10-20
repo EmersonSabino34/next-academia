@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { MapPin, Phone, Mail, MessageCircle, Instagram } from "lucide-react"
 
-
 export function Contact() {
   return (
 
