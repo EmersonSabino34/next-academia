@@ -5,6 +5,7 @@ import { MapPin, Phone, Mail, MessageCircle, Instagram } from "lucide-react"
 
 export function Contact() {
   return (
+
     <section id="contact" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
