@@ -1,6 +1,5 @@
 import { Instagram, MapPin, Phone } from "lucide-react"
 
-
 export function Footer() {
 
   return (
