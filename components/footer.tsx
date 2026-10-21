@@ -1,5 +1,6 @@
 import { Instagram, MapPin, Phone } from "lucide-react"
 
+
 export function Footer() {
   return (
     <footer className="bg-black text-white py-12">
