@@ -3,7 +3,6 @@ import { Trophy, Users, Clock, Target } from "lucide-react"
 export function About() {
   const features = [
     {
-      
       icon: Trophy,
       title: "Excelência",
       description: "Treinadores certificados e experientes",
