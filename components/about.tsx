@@ -5,8 +5,7 @@ export function About() {
     {
       icon: Trophy,
       title: "Excelência",
-      description: "Treinadores certificados e experientes",
-      
+      description: "Treinadores certificados e experientes",     
     },
     {
       icon: Users,
