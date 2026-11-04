@@ -5,7 +5,6 @@ import { useState, useEffect } from "react"
 import { Menu, X, Instagram } from "lucide-react"
 import Link from "next/link"
 
-
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
