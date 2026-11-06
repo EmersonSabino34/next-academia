@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { MessageCircle, Instagram } from "lucide-react"
 
+
 export function Hero() {
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center bg-black overflow-hidden">
