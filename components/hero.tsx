@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { MessageCircle, Instagram } from "lucide-react"
 
-
 export function Hero() {
   return (
 
