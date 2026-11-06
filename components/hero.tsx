@@ -10,6 +10,7 @@ export function Hero() {
         <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/V%C3%ADdeo%20do%20WhatsApp%20de%202025-10-25%20%C3%A0%28s%29%2016.04.25_7dacb26c-t4btUplQGrYV1cn0znlpc82QuPyPSw.mp4" type="video/mp4" />
       </video>
 
+
       <div className="container mx-auto px-4 relative z-10 text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 text-balance">Beyond</h1>
         <p className="text-xl md:text-2xl text-white/90 mb-4 max-w-2xl mx-auto text-balance font-light">
