@@ -4,6 +4,7 @@ import { MessageCircle, Instagram } from "lucide-react"
 
 export function Hero() {
   return (
+
     <section id="home" className="relative min-h-screen flex items-center justify-center bg-black overflow-hidden">
       <video autoPlay loop muted playsInline className="absolute inset-0 w-full h-full object-cover opacity-40">
         <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/V%C3%ADdeo%20do%20WhatsApp%20de%202025-10-25%20%C3%A0%28s%29%2016.04.25_7dacb26c-t4btUplQGrYV1cn0znlpc82QuPyPSw.mp4" type="video/mp4" />
