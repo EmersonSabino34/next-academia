@@ -7,7 +7,6 @@ export function About() {
       title: "Excelência",
       description: "Treinadores certificados e experientes",     
     },
-    
     {
       icon: Users,
       title: "Comunidade",
