@@ -19,6 +19,7 @@ export function About() {
       title: "Flexibilidade",
       description: "Horários variados para sua rotina",
     },
+    
     {
       icon: Target,
       title: "Resultados",
